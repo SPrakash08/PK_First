@@ -1,0 +1,3 @@
+Step:1 Git and Github
+Step:2 Jenkins
+Step:3 Docker and Ansible
